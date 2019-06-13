@@ -1,3 +1,10 @@
+This code is old, I wouldn't try to use it.  You can do everything you need to with the latest version of 
+
+https://github.com/plamere/spotipy
+
+Including controlling the samsung speakers thru spotify connected - much easier!!!
+
+
 # SamsungShapeAlexa
 
 My Code for controlling my Samsung shape speakers with spotify connect via Alexa
